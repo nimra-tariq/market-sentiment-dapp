@@ -1,4 +1,5 @@
-<img width="929" alt="sentiments-dapp" src="https://user-images.githubusercontent.com/89407497/217746308-2dd711b8-59e5-43f7-a602-7db4994eeab2.png">
+<img width="921" alt="sentiments-dapp-image" src="https://user-images.githubusercontent.com/89407497/217746630-9a51656e-a20d-49c7-9529-41de5cf4702f.png">
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
